@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity implements MyWebChromeClient
 
         //load website by URL
 
-        myWebView.loadUrl("https://39c7-212-200-204-128.ngrok.io");
+        myWebView.loadUrl("https://financius.tech/");
         //register token for notification
 
         // this.onStart();
